@@ -1,4 +1,3 @@
-index.html        ← ito pinaka-importante
+index.html
 style.css
 script.js
-assets/
